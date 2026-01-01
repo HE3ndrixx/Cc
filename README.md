@@ -47,7 +47,7 @@ Professional Telegram bot for credit card BIN validation and payment gateway tes
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/DarkFlux4T/Noxaria-Checker.git
+git clone https://github.com/HE3ndrixc/Cc.git
 cd Noxaria-Checker
 ```
 
