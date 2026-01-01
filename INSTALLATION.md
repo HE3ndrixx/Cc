@@ -58,8 +58,8 @@
 2. **Clone or Download the Project**
    ```bash
    # Using Git
-   git clone https://github.com/DarkFlux4T/Noxaria-Checker.git
-   cd Noxaria-Checker
+   git clone https://github.com/HE3ndrixx/Cc.git
+   cd Cc
    # Or download ZIP and extract
    ```
 
@@ -92,8 +92,8 @@
 
 2. **Clone the Project**
    ```bash
-   git clone https://github.com/DarkFlux4T/Noxaria-Checker.git
-   cd Noxaria-Checker
+   git clone [https://github.com/DarkFlux4T/Noxaria-Checker.git](https://github.com/HE3ndrixx/Cc.git)
+   cd Cc
    ```
 
 3. **Create Virtual Environment**
